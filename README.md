@@ -1,0 +1,1 @@
+# This is a Local assistence which is used to convert voice into text and text to voice 
