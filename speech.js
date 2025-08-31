@@ -4,7 +4,6 @@
     recognition.continuous = true;
     recognition.interimResults = true;
     recognition.lang = 'en-US';
-
     let finalTranscript = '';
 
     recognition.onresult = function(event) {
